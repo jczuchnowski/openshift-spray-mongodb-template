@@ -1,0 +1,2 @@
+openshift-spray-mongodb-template
+================================
